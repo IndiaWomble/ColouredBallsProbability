@@ -1,0 +1,13 @@
+D:\C#\Colored Balls\bin\Debug\netcoreapp3.1\Colored Balls.exe
+D:\C#\Colored Balls\bin\Debug\netcoreapp3.1\Colored Balls.deps.json
+D:\C#\Colored Balls\bin\Debug\netcoreapp3.1\Colored Balls.runtimeconfig.json
+D:\C#\Colored Balls\bin\Debug\netcoreapp3.1\Colored Balls.runtimeconfig.dev.json
+D:\C#\Colored Balls\bin\Debug\netcoreapp3.1\Colored Balls.dll
+D:\C#\Colored Balls\bin\Debug\netcoreapp3.1\Colored Balls.pdb
+D:\C#\Colored Balls\obj\Debug\netcoreapp3.1\Colored Balls.csprojAssemblyReference.cache
+D:\C#\Colored Balls\obj\Debug\netcoreapp3.1\Colored Balls.AssemblyInfoInputs.cache
+D:\C#\Colored Balls\obj\Debug\netcoreapp3.1\Colored Balls.AssemblyInfo.cs
+D:\C#\Colored Balls\obj\Debug\netcoreapp3.1\Colored Balls.csproj.CoreCompileInputs.cache
+D:\C#\Colored Balls\obj\Debug\netcoreapp3.1\Colored Balls.dll
+D:\C#\Colored Balls\obj\Debug\netcoreapp3.1\Colored Balls.pdb
+D:\C#\Colored Balls\obj\Debug\netcoreapp3.1\Colored Balls.genruntimeconfig.cache

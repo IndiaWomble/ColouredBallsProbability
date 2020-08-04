@@ -1,0 +1,6 @@
+Approach Used - 
+First I am finding all the possible combinations that can be made with given n long array of colored balls with each occurence length = k.
+Then I am finding the occurences which contains same elements and storing all of their indices except one.
+Then I am deleting the elements with those collected indices.
+
+Time Complexity - O(n^3 + 3(n + 1))
